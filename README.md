@@ -3,7 +3,7 @@ Color a square grid (7 by 7) with three colors while satisfying some rules and e
 This problem is challenging because it's freaking hard to sample.
 # Rules in the script
 See the pic attached below for some general ideal.
-1. Curvature selectivity. Blue color (or hydrophobic species) has premium AMC membership. Start coloring vertex sites first, then edges, finally faces.
+1. Curvature selectivity with blue color. Blue color (or hydrophobic species) has lightning lane pass in Disney. Start blue-coloring vertex sites first, then edges, finally faces.
 2. Region-specific density. Some regions can only have a certain number of colors (green + blue).
 3. Blue ratio. total number of blue on the grid cannot exceed some number.
 4. Be symmetric-ish. For each coloring move, aim for symmetry. Like color the next point as opposite as possible to the last (like opposite edge).
@@ -13,3 +13,7 @@ See the pic attached below for some general ideal.
 I am smart enough to realize this is basically a coloring problem. Apparently not smart enough to solve it in a mathematically glorious way. So here's the coding solution most likely to offend mathematicians. 
 For my math friends please check out this note to learn more about proper q-coloring https://www.math.tau.ac.il/~peledron/homepage_files/Proper%20colorings%20IMU%20meeting.pdf
 You will not learn it here.
+
+## Sample solution
+<img width="1712" height="1768" alt="sample_color_grid" src="https://github.com/user-attachments/assets/8d03fbf9-0bb5-460f-bbd4-17eb6fa309cf" />
+
