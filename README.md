@@ -15,5 +15,4 @@ For my math friends please check out this note to learn more about proper q-colo
 You will not learn it here.
 
 ## Sample solution
-<img width="1712" height="1768" alt="sample_color_grid" src="https://github.com/user-attachments/assets/8d03fbf9-0bb5-460f-bbd4-17eb6fa309cf" />
-
+<img width="400" height="414" alt="sample_color_grid" src="https://github.com/user-attachments/assets/c85d95d4-7df1-4373-a6ee-acabd9a59101" />
