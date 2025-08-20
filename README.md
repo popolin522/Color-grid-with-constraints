@@ -3,10 +3,10 @@ Color a square grid (7 by 7) with three colors while satisfying some rules and e
 This problem is challenging because it's freaking hard to sample.
 # Rules in the script
 See the pic attached below for some general ideal.
-1. Curvature selectivity. Blue color (or hydrophobic species) should be on the vertex first, edge, then face.
+1. Curvature selectivity. Blue color (or hydrophobic species) has premium AMC membership. Start coloring vertex sites first, then edges, finally faces.
 2. Region-specific density. Some regions can only have a certain number of colors (green + blue).
 3. Blue ratio. total number of blue on the grid cannot exceed some number.
-4. Be symmetric-ish. For each coloring move, aim for symmetry—color the next point as opposite as possible to the last (like opposite edge).
+4. Be symmetric-ish. For each coloring move, aim for symmetry. Like color the next point as opposite as possible to the last (like opposite edge).
 <img width="468" height="267" alt="image" src="https://github.com/user-attachments/assets/0705a32d-91d0-41be-9b08-068b2835f114" />
 
 # Improper (or engineer) coloring solution
